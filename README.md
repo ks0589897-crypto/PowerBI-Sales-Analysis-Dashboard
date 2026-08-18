@@ -24,7 +24,7 @@ The dashboard helps analyze sales performance, revenue trends, product performan
 - Data visualizations
 
 ##  Dashboard Preview
-![Power BI Dashboard](./Screenshot 2026-08-18 110052.png)
+![Madhav Ecommerce Dashboard](https://github.com/ks0589897-crypto/PowerBI-Sales-Analysis-Dashboard/blob/main/Screenshot%202026-08-18%20110052.png?raw=true)
 
 ##  Project Files
 
