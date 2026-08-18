@@ -25,7 +25,7 @@ The dashboard helps analyze sales performance, revenue trends, product performan
 
 ##  Dashboard Preview
 
-![Power BI Dashboard](dashboard.png)
+Screenshot 2026-08-18 110052.png
 
 ##  Project Files
 
